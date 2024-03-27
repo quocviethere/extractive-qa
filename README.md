@@ -1,6 +1,6 @@
 # Multilingual Extractive Quesion Answering system with XLM-RoBERTa
 ---
-Code for our Big Data and its Applications project at UEH. We fine-tuned XLM-RoBERTa model on SQuADv2 dataset for Extractive Question Answering task and compare its performance to other models. We deploy the model to a [website](https://ueh-bigdata.github.io/) using Gradio. 
+Code for our Big Data and its Applications project at UEH. We fine-tune XLM-RoBERTa model on SQuADv2 dataset for Extractive Question Answering task and compare its performance to other models. We deploy the model to a [website](https://ueh-bigdata.github.io/) using Gradio. 
 
 https://github.com/quocviethere/extractive-qa/assets/96617645/1d828b55-e4a1-4bed-ac59-4ece0d40d472
 
