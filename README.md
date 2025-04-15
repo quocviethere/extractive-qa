@@ -1,4 +1,4 @@
-# Multilingual Extractive Quesion Answering system with XLM-RoBERTa
+# Multilingual Extractive Question Answering system with XLM-RoBERTa
 ---
 
 **[NEW]** A dockerized version with a new feature of storing chat history is available [here](https://github.com/nguynking/hpc). Special thanks to [@nguynking](https://github.com/nguynking).
